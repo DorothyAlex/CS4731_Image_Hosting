@@ -4,6 +4,7 @@ newmtl mat0
 Ns 0
 Ka 1.0 1.0 1.0
 Kd 0.24228 0.15593 0.00243
+map_Kd Diffuse.jpg
 Ks 0 0 0
 Ke 0 0 0
 Ni 1.0
