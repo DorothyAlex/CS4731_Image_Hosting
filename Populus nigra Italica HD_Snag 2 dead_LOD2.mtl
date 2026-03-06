@@ -15,6 +15,7 @@ newmtl mat1
 Ns 0
 Ka 1.0 1.0 1.0
 Kd 0.60383 0.60383 0.60383
+map_Kd Populus_nigra__Italica__HD_Pop_nigra_dead_br_02_Populus_nigra_dead_branch_01a_LOD2_Color.png
 Ks 0 0 0
 Ke 0 0 0
 Ni 1.0
@@ -25,6 +26,7 @@ newmtl mat2
 Ns 0
 Ka 1.0 1.0 1.0
 Kd 0.60383 0.60383 0.60383
+map_Kd Populus_nigra__Italica__HD_Pop_nigra_dead_br_02_Populus_nigra_dead_branch_01a_LOD2_Color.png
 Ks 0 0 0
 Ke 0 0 0
 Ni 1.0
@@ -35,6 +37,7 @@ newmtl mat3
 Ns 250
 Ka 1.0 1.0 1.0
 Kd 0.85 0.85 0.85
+map_Kd Populus_nigra__Italica__HD_Pop_nigra_br_cut_01_Populus_branch_cut_01_LOD2_Color.png
 Ks 0 0 0
 Ke 0.0 0.0 0.0
 Ni 1.0
