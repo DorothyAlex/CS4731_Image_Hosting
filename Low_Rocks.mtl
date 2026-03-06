@@ -4,6 +4,7 @@ newmtl mat0
 Ns 0
 Ka 1.0 1.0 1.0
 Kd 0.21404 0.21404 0.21404
+map_Kd Low_Rocks_Low_BaseColor.png
 Ks 0 0 0
 Ke 0 0 0
 Ni 1.0
