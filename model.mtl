@@ -4,7 +4,7 @@ newmtl mat0
 Ns 250
 Ka 1.0 1.0 1.0
 Kd 0.0371 0.2045 0.0777
-map_Kd LotusMat_albedo.jpg
+map_Kd LillypadMat_albedo.jpg
 Ks 0 0 0
 Ke 0.0 0.0 0.0
 Ni 1.0
@@ -15,7 +15,7 @@ newmtl mat1
 Ns 250
 Ka 1.0 1.0 1.0
 Kd 0.6073 0.1575 0.3244
-map_Kd LillypadMat_albedo.jpg
+map_Kd LotusMat_albedo.jpg
 Ks 0 0 0
 Ke 0.0 0.0 0.0
 Ni 1.0
@@ -31,5 +31,6 @@ Ke 0.0 0.0 0.0
 Ni 1.0
 d 1
 illum 1
+
 
 
